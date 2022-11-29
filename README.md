@@ -14,7 +14,7 @@
 
 ## Setup and usage
 
-Live page [here](https://speedgamereactjs.netlify.app/)
+Live page [here](https://pokeapphook.netlify.app/)
 
 ## Screenshot
 
@@ -23,4 +23,4 @@ Live page [here](https://speedgamereactjs.netlify.app/)
 
 ## Sources
 
-- [speed game source code](https://github.com/hasanmd91/speedgame_react.js)
+- [PokeApp source code](https://github.com/hasanmd91/pokeApp_hook)
