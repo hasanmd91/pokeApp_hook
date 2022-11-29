@@ -1,0 +1,23 @@
+.header {
+  height: 8vh;
+  background-color: rgb(31, 30, 30);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+
+.header a {
+  color: yellow;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: yellowgreen;
+}
+
+h1 {
+  margin-left: 50px;
+}
